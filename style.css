@@ -1,0 +1,20 @@
+h1 {
+    font-family:"Arial";
+    font-size: 45px;
+    color:darkcyan;
+}
+h2 {
+    font-family:"Arial";
+    font-size: 30px;
+    color:blue;
+}
+article {
+    font-size: 20px;
+    font-style: italic;
+    background-color: azure;
+}
+h3 {
+    font-family:"Arial";
+    font-size: 100px;
+    color:brown;
+}
